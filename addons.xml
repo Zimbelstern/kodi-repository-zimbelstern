@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<addons><addon id="plugin.audio.rp-podcasts" name="RP Podcasts" provider-name="Walfried Schneider" version="0.0.1">
+<addons><addon id="plugin.audio.rp-podcasts" name="RP Podcasts" provider-name="Walfried Schneider" version="1.0.0">
  <requires>
   <import addon="xbmc.python" version="2.25.0" />
   <import addon="script.module.elementtree" version="1.2.8" />
@@ -11,7 +11,7 @@
   <summary lang="en_GB">Audio add-on for the podcasts of the "Rheinische Post" newspaper (german content).</summary>
   <description lang="en_GB">See german description.</description>
   <disclaimer lang="en_GB">Unofficial! Not affiliated with the media group! No warranty of any kind!</disclaimer>
-  <summary lang="de_DE">Audio add-on für die Online-Podcasts der Rheinischen Post.</summary>
+  <summary lang="de_DE">Audio add-on für die Podcasts der Rheinischen Post.</summary>
   <description lang="de_DE">Dieses Add-on erweitert Kodi mit den Podcasts "Rheinische Post Aufwacher", "Rheinpegel", und "Praktisch Faktisch".</description>
   <disclaimer lang="de_DE">Inoffiziell! Keine offizielle Software der "Rheinische Post Mediengruppe"! Keine Gewährleistung!</disclaimer>
   <language>de</language>
@@ -21,7 +21,7 @@
   <website>https://www.clavile.de/rp-podcasts</website>
   <email />
   <source>https://github.com/zimbelstern/rp-podcasts</source>
-  <news />
+  <news>Version 1.0.0 released!</news>
   <assets>
    <icon>icon.png</icon>
    <fanart />
