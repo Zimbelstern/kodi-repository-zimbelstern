@@ -13,7 +13,7 @@ The source code and documentation files of this software are published under the
 
 ## Installation
 
-- Download the archive repository-zimbelstern.zip
+- Download the archive [repository-zimbelstern.zip](https://github.com/zimbelstern/kodi-repository-zimbelstern/raw/master/repository.zimbelstern.zip)
 
 - Follow the instructions here: https://kodi.wiki/view/HOW-TO:Install_add-ons_from_zip_files
 
