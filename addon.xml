@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.zimbelstern" name="Add-ons von zimbelstern" version="1.0.0" provider-name="zimbelstern">
+	<extension point="xbmc.addon.repository" name="zimbelstern">
+		<info compressed="true">https://raw.githubusercontent.com/zimbelstern/kodi-repository-zimbelstern/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/zimbelstern/kodi-repository-zimbelstern/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/zimbelstern/kodi-repository-zimbelstern/master/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Repository of zimbelstern</summary>
+		<summary lang="de">Repository von zimbelstern</summary>
+		<description lang="en">This is the repository of zimbelstern.</description>
+		<description lang="de">Das ist das Repository von zimbelstern.</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
