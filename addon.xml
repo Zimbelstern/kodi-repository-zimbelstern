@@ -8,8 +8,8 @@
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">Repository of zimbelstern</summary>
 		<summary lang="de">Repository von zimbelstern</summary>
-		<description lang="en">This is the repository of zimbelstern.</description>
-		<description lang="de">Das ist das Repository von zimbelstern.</description>
+		<description lang="en">This is the repository zimbelstern (https://github.com/zimbelstern).</description>
+		<description lang="de">Das ist das Repository von zimbelstern (https://github.com/zimbelstern).</description>
 		<disclaimer></disclaimer>
 		<platform>all</platform>
 	</extension>
